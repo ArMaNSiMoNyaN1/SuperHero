@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "i6wPQ+twOI+FsdRsJIwgYt7QNSQKtfzXg2wJKvHmjercgXFhNf4YAyLurFY0i4dkXnOpPKKsEBbxqQ48sBxmeA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USER\\RiderProjects\\SuperHeroAPI\\Application\\Application.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\USER\\RiderProjects\\SuperHeroAPI\\Application\\obj\\project.nuget.cache : Found invalid data while decoding."
+    }
+  ]
+}
